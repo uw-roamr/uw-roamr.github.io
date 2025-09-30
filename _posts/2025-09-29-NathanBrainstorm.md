@@ -16,6 +16,7 @@ featured: false
 
 ## Brain Storm
 **Wheeled Configuration:**
+
 | Feature | Geared DC Motor | BLDC Motor |
 |---------|-----------------|------------|
 | **Pros** | High Torque<br>Affordable<br>Easy to control | Long lifespan<br>High RPM<br>Highly efficient |
