@@ -2,7 +2,7 @@
 layout: post
 title: Morphological Chart
 date: 2025-10-06 14:52:00
-description: Comparison of component concepts
+description: Comparison of component designs
 tags:
 categories: 
 featured: false
