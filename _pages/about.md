@@ -14,8 +14,6 @@ news: false  # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome to our capstone website!
-
 We're on a mission to build a **r**eally **o**pen-source **a**utonomous **m**obile **r**obot.
 
 Developers face a cost-capability tradeoff for robotics platforms. Highly capable options like the Turtlebot are expensive, but cheaper options like LEGO robots don't offer much capability. We recognized that a big chunk of the cost of robots is from sensors and compute, which are already readily available in our mobile phones. Thus, our goal is to build a mobile robotics platform that is:
@@ -24,8 +22,7 @@ Developers face a cost-capability tradeoff for robotics platforms. Highly capabl
 - Open-source
 - Extensible/hackable
 
-
- 
+<br>
 
 The team:
 
