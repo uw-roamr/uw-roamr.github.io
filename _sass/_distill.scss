@@ -4,10 +4,12 @@
 
 d-byline {
   border-top-color: var(--global-divider-color) !important;
+  font-family: $body-font-family;
 }
 
 d-byline h3 {
   color: var(--global-text-color) !important;
+  font-family: $heading-font-family;
 }
 
 d-byline a, d-article d-byline a {
@@ -19,8 +21,12 @@ d-byline a, d-article d-byline a {
 
 d-article {
   border-top-color: var(--global-divider-color) !important;
+  font-family: $body-font-family;
   p, h1, h2, h3, h4, h5, h6, li, table {
     color: var(--global-text-color) !important;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
   }
   h1, h2, hr, table, table th, table td {
     border-bottom-color: var(--global-divider-color) !important;

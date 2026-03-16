@@ -10,7 +10,7 @@ nav_order: 3
 
 <div class="row justify-content-center mt-3">
     <div class="col-auto">
-        {% include figure.html path="assets/img/difcad.png" class="img-fluid rounded z-depth-1" style="max-width: 500px;" %}
+        {% include figure.html path="assets/img/bettercad.png" class="img-fluid rounded z-depth-1" style="max-width: 500px;" %}
     </div>
 </div>
 <div class="caption text-center" style="font-size: 0.95em;">
