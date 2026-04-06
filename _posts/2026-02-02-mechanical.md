@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Mechanical Design
-date: 2026-02-02 16:30:00
+date: 2026-02-01 16:30:00
 description: New Mechanical Design
 tags:
 categories: 
