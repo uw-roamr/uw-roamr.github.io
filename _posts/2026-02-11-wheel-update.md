@@ -13,7 +13,7 @@ Today, Anders and Olivia worked on updating the wheels. These new wheels will be
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/oldwheel.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/oldwheel.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
