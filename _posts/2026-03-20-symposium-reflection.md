@@ -15,7 +15,7 @@ Particularly, we are happy at the reliability of our product, from both the soft
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/symposium1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/symposium1.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ Particularly, we are happy at the reliability of our product, from both the soft
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/symposium2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/symposium2.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ Particularly, we are happy at the reliability of our product, from both the soft
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/symposium3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/symposium3.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
