@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PCBAs have arrived
+title: Reflections on PCB bringup
 date: 2026-02-22 20:02:00
 description: PCBA bringup post-mortem
 tags:
